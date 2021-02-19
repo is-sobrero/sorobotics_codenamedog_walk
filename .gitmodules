@@ -1,0 +1,3 @@
+[submodule "ik_solver"]
+	path = ik_solver
+	url = git@github.com:is-sobrero/sorobotics_codenamedog_ik.git
